@@ -10,17 +10,13 @@ author:
 
 ## About me
 
-Currently pursuing a PhD degree at National Key Laboratory of CNS/ATM @BUAA. 
+Currently pursuing a PhD degree at National Key Laboratory of CNS/ATM @BUAA. Focusing on satellite signal processing, mobile communications and wireless communications.
 
 ## Projects
 
 #1 Satellite based Automatic dependent surveillance – broadcast (ADS-B) receiver. Launched at 2020/11.
 
-<figure>
-	<a>
-        <img src="{{site.url}}/imgs/sate.png">
-    </a>    
-</figure>
+![photo](../imgs/sate.png)
 
 ### Publications
 
